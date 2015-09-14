@@ -1,0 +1,15 @@
+/**
+
+Created by Mark Lehmbach
+
+*/
+
+
+@font-face {
+	font-family: 'Triforce';
+	src: url('fonts/Triforce.eot');
+	src: local('☺'), url('fonts/Triforce.woff') format('woff'), url('fonts/Triforce.ttf') format('truetype'), url('fonts/Triforce.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
